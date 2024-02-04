@@ -11,6 +11,7 @@
 请使用python3 和 selenium库写一个程序，实现以下功能：
  
 > 输入：日期、货币代号
+
 > 输出：该日期该货币的“现汇卖出价”
  
 - 示例：
@@ -35,9 +36,14 @@
 ## 第二题
 给你一个字符串，如果一个字符在它前面k个字符中已经出现过了，就把这个字符改成’-’。
 
-比如
+比如：
+
 > Input: abcdefaxc 10
+
 > Output abcdef-x-
+
+
 > Input: abcdefaxcqwertba 10
+
 > Output abcdef-x-qw-rtb-
 -----------------------
